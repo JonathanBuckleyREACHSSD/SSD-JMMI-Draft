@@ -1,0 +1,54 @@
+div.dashboard {
+  position: absolute;
+  top: 40px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  overflow: hidden;
+  padding: 0;
+  min-width: 1280px;
+  min-height: 820px;
+}
+
+div.outer {
+  position: absolute;
+  top: 40px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  overflow: hidden;
+  padding: 0;
+}
+
+#home {
+  background-color: white;
+  padding: 20px 20px 0 20px;
+}
+
+
+#controls {
+  background-color: white;
+  cursor: move;
+  opacity: 0.4;
+  transition: opacity 300ms;
+  padding: 20px 20px 20px 20px;
+}
+
+
+#controls:hover {
+  opacity: 1;
+  transition-delay: 0;
+}
+
+
+#logo {
+  background-color: transparent;
+  cursor: pointer;
+  opacity: 0.4;
+  transition: opacity 300ms;
+}
+
+#logo:hover {
+  opacity: 1;
+  transition-delay: 0;
+}

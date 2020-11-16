@@ -1,0 +1,35 @@
+Item,Category
+Sorghum Grain (1 kg),Food
+Maize Grain (1 kg),Food
+Wheat Flour (1 kg),Food
+Rice (1 kg),Food
+Groundnuts (shelled) (1 kg),Food
+Beans (1 kg),Food
+Sugar (1 kg),Food
+Salt (1 kg),Food
+Cooking Oil (1L),Food
+Soap (200 g),NFI
+Jerrycan (1 pc),NFI
+Mosquito Net (1 pc),NFI
+Exercise Book (1 pc),NFI
+Blanket (1 pc),NFI
+Cooking Pot (1 pc),NFI
+Plastic Sheet (1 pc),NFI
+Pole (1 pc),NFI
+Firewood (1 bundle),NFI
+Charcoal (1 kg),NFI
+Goat (1 unit),Livestock
+Chicken (1 unit),Livestock
+Milling.costs,Labour
+Casual.labor,Labour
+USD,Currencies
+SDG,Currencies
+ETB,Currencies
+UGX,Currencies
+KES,Currencies
+CDF,Currencies
+XAF,Currencies
+Food Price Index,Indices
+MSSMEB Food Basket,Indices
+MSSMEB,Indices
+Water (1L),Food
